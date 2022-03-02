@@ -1,0 +1,31 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+/*header section*/
+header{
+	background:#fff;
+	padding: 25px;
+}
+.menu li a{
+	font-size: 20px;
+    text-transform: uppercase;
+    color: #000;
+}
+.navbar-nav {
+	    margin: 2px 9px;
+}
+.logo-img{
+	margin: 0px 106px;
+}
+/*About section*/
+/*footer section*/
+.footer-2{
+	background:#F13E2C;
+	padding:18px;
+
+}
+.footer-2 h2{
+	text-align: center;
+
+}
